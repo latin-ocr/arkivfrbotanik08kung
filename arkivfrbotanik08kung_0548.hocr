@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik08kung/arkivfrbotanik08kung_0548.png"; bbox 0 0 1965 3240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 110 49 1018 102">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 110 49 1018 102">
+     <span class='ocr_line' id='line_1_1' title="bbox 110 49 1018 102; baseline -0.009 -1"><span class='ocrx_word' id='word_1_1' title='bbox 110 57 257 102; x_wconf 86' lang='lat' dir='ltr'><strong>Arkiv</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 289 58 364 100; x_wconf 63' lang='lat' dir='ltr'>fin·</span> <span class='ocrx_word' id='word_1_3' title='bbox 397 55 612 99; x_wconf 71' lang='lat' dir='ltr'>Botanik.</span> <span class='ocrx_word' id='word_1_4' title='bbox 646 52 779 97; x_wconf 81' lang='lat' dir='ltr'>Band</span> <span class='ocrx_word' id='word_1_5' title='bbox 813 49 939 98; x_wconf 58' lang='grc' dir='ltr'>8.Λέ</span> <span class='ocrx_word' id='word_1_6' title='bbox 974 53 1018 94; x_wconf 81' lang='lat'>9.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1962 54 1965 598">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1962 54 1965 598">
+     <span class='ocr_line' id='line_1_2' title="bbox 1962 54 1965 598; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1962 54 1965 598; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 264 316 1965 2898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 264 316 1965 2898">
+     <span class='ocr_line' id='line_1_3' title="bbox 264 316 1965 2898; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 264 316 1965 2898; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1322 3080 1962 3134">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1322 3080 1962 3134">
+     <span class='ocr_line' id='line_1_4' title="bbox 1322 3080 1962 3134; baseline -0.011 -11"><span class='ocrx_word' id='word_1_9' title='bbox 1322 3085 1430 3123; x_wconf 80' lang='lat' dir='ltr'>Salix</span> <span class='ocrx_word' id='word_1_10' title='bbox 1459 3085 1599 3134; x_wconf 83' lang='lat' dir='ltr'>glauca</span> <span class='ocrx_word' id='word_1_11' title='bbox 1627 3084 1668 3121; x_wconf 85' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1702 3094 1729 3120; x_wconf 89' lang='lat'>&gt;&lt;</span> <span class='ocrx_word' id='word_1_13' title='bbox 1760 3081 1797 3119; x_wconf 89' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1827 3080 1962 3118; x_wconf 78' lang='lat' dir='ltr'><strong>herba&lt;</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

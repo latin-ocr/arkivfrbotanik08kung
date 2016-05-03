@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik08kung/arkivfrbotanik08kung_0542.png"; bbox 0 0 1965 3240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 73 50 978 102">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 73 50 978 102">
+     <span class='ocr_line' id='line_1_1' title="bbox 73 50 978 102; baseline -0.011 0"><span class='ocrx_word' id='word_1_1' title='bbox 73 57 219 102; x_wconf 78' lang='lat' dir='ltr'><strong>Arkiv</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 252 57 327 100; x_wconf 67' lang='lat' dir='ltr'>fbr</span> <span class='ocrx_word' id='word_1_3' title='bbox 361 53 578 99; x_wconf 82' lang='lat' dir='ltr'>Botanik.</span> <span class='ocrx_word' id='word_1_4' title='bbox 608 52 740 97; x_wconf 81' lang='lat' dir='ltr'>Band</span> <span class='ocrx_word' id='word_1_5' title='bbox 775 50 901 98; x_wconf 71' lang='lat' dir='ltr'><em>8..M‘3</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 938 54 978 95; x_wconf 78' lang='lat'>9.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 194 420 1965 2940">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 194 420 1965 2940">
+     <span class='ocr_line' id='line_1_2' title="bbox 194 420 1965 2940; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 194 420 1965 2940; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1440 3098 1964 3151">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1440 3098 1964 3151">
+     <span class='ocr_line' id='line_1_3' title="bbox 1440 3098 1964 3151; baseline -0.013 -10"><span class='ocrx_word' id='word_1_8' title='bbox 1440 3102 1549 3141; x_wconf 82' lang='lat' dir='ltr'>Salix</span> <span class='ocrx_word' id='word_1_9' title='bbox 1577 3103 1716 3151; x_wconf 82' lang='lat' dir='ltr'><strong>glauca</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1745 3101 1786 3139; x_wconf 87' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1818 3111 1846 3137; x_wconf 79' lang='grc' dir='ltr'>Χ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1877 3098 1914 3137; x_wconf 89' lang='lat' dir='ltr'>S.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1945 3099 1964 3135; x_wconf 70' lang='lat' dir='ltr'>k</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

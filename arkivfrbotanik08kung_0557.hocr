@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik08kung/arkivfrbotanik08kung_0557.png"; bbox 0 0 1965 3240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 5 3012 375 3073">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 5 3012 375 3073">
+     <span class='ocr_line' id='line_1_1' title="bbox 5 3012 375 3073; baseline -0.03 -19"><span class='ocrx_word' id='word_1_1' title='bbox 5 3051 10 3054; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 45 3029 69 3052; x_wconf 87' lang='lat'>&gt;&lt;</span> <span class='ocrx_word' id='word_1_3' title='bbox 103 3015 241 3060; x_wconf 61' lang='lat' dir='ltr'>glum-21</span> <span class='ocrx_word' id='word_1_4' title='bbox 275 3012 303 3046; x_wconf 74' lang='grc' dir='ltr'>Ι,</span> <span class='ocrx_word' id='word_1_5' title='bbox 332 3023 375 3073; x_wconf 52' lang='grc' dir='ltr'>ἳ-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1653 39 1854 86">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1653 39 1854 86">
+     <span class='ocr_line' id='line_1_2' title="bbox 1653 39 1854 86; baseline -0.04 1"><span class='ocrx_word' id='word_1_6' title='bbox 1653 42 1776 86; x_wconf 81' lang='lat' dir='ltr'>Tafl.</span> <span class='ocrx_word' id='word_1_7' title='bbox 1813 39 1854 80; x_wconf 80' lang='lat'>7.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 470 1428 1978">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 470 1428 1978">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 470 1428 1978; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 470 1428 1978; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1285 3059 1901 3104">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1285 3059 1901 3104">
+     <span class='ocr_line' id='line_1_4' title="bbox 1285 3059 1901 3104; baseline -0.023 -7"><span class='ocrx_word' id='word_1_9' title='bbox 1285 3070 1388 3104; x_wconf 69' lang='lat' dir='ltr'>Ljustr.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1413 3069 1444 3094; x_wconf 75' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_11' title='bbox 1469 3066 1498 3093; x_wconf 78' lang='lat' dir='ltr'>B.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1525 3065 1671 3098; x_wconf 61' lang='lat' dir='ltr'>Lam-vim,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1694 3065 1720 3090; x_wconf 69' lang='grc' dir='ltr'>ἀ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1746 3059 1901 3094; x_wconf 50' lang='grc' dir='ltr'>ᾺἊ-μψὶιηι.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

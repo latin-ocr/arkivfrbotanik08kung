@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik08kung/arkivfrbotanik08kung_0549.png"; bbox 0 0 1965 3240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1684 32 1889 78">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1684 32 1889 78">
+     <span class='ocr_line' id='line_1_1' title="bbox 1684 32 1889 78; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 1684 32 1807 78; x_wconf 82' lang='lat' dir='ltr'><strong>Tafl.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1843 35 1889 78; x_wconf 79' lang='grc' dir='ltr'>ὁ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 306 1748 2160">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 306 1748 2160">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 306 1748 2160; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 0 306 1748 2160; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 19 3102 709 3156">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 19 3102 709 3156">
+     <span class='ocr_line' id='line_1_3' title="bbox 19 3102 709 3156; baseline -0.022 -11"><span class='ocrx_word' id='word_1_4' title='bbox 19 3109 58 3146; x_wconf 80' lang='lat' dir='ltr'>L.</span> <span class='ocrx_word' id='word_1_5' title='bbox 93 3118 120 3143; x_wconf 88' lang='lat'>&gt;&lt;</span> <span class='ocrx_word' id='word_1_6' title='bbox 151 3104 297 3154; x_wconf 80' lang='lat' dir='ltr'>polaris</span> <span class='ocrx_word' id='word_1_7' title='bbox 326 3102 410 3147; x_wconf 76' lang='lat' dir='ltr'>Wg.</span> <span class='ocrx_word' id='word_1_8' title='bbox 441 3103 469 3136; x_wconf 82' lang='lat' dir='ltr'>f.</span> <span class='ocrx_word' id='word_1_9' title='bbox 500 3103 648 3137; x_wconf 72' lang='lat' dir='ltr'><strong>serrata</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 672 3110 709 3156; x_wconf 61' lang='lat'>2.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1294 3150 1914 3199">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1294 3150 1914 3199">
+     <span class='ocr_line' id='line_1_4' title="bbox 1294 3150 1914 3199; baseline -0.024 -8"><span class='ocrx_word' id='word_1_11' title='bbox 1294 3163 1399 3199; x_wconf 80' lang='lat' dir='ltr'>Ljustr.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1424 3162 1456 3188; x_wconf 80' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1480 3160 1509 3187; x_wconf 76' lang='lat'>13.</span> <span class='ocrx_word' id='word_1_14' title='bbox 1535 3157 1684 3192; x_wconf 60' lang='lat' dir='ltr'>Lnga-lius</span> <span class='ocrx_word' id='word_1_15' title='bbox 1706 3155 1732 3183; x_wconf 74' lang='lat'>8&lt;</span> <span class='ocrx_word' id='word_1_16' title='bbox 1757 3150 1914 3188; x_wconf 61' lang='lat' dir='ltr'>sttphal,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

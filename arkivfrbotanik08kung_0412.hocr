@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik08kung/arkivfrbotanik08kung_0412.png"; bbox 0 0 1965 3240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 152 113 1024 157">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 152 113 1024 157">
+     <span class='ocr_line' id='line_1_1' title="bbox 152 113 1024 157; baseline 0 -5"><span class='ocrx_word' id='word_1_1' title='bbox 152 118 295 156; x_wconf 71' lang='lat' dir='ltr'>ARKIV</span> <span class='ocrx_word' id='word_1_2' title='bbox 324 113 415 157; x_wconf 77' lang='lat' dir='ltr'>FOR</span> <span class='ocrx_word' id='word_1_3' title='bbox 443 118 663 155; x_wconf 84' lang='grc' dir='ltr'>ΒΟΤΑΝΙΚ.</span> <span class='ocrx_word' id='word_1_4' title='bbox 717 119 817 153; x_wconf 78' lang='lat' dir='ltr'>Band</span> <span class='ocrx_word' id='word_1_5' title='bbox 846 120 876 153; x_wconf 79' lang='grc'>8.</span> <span class='ocrx_word' id='word_1_6' title='bbox 906 119 978 152; x_wconf 78' lang='grc' dir='ltr'>Νῑο</span> <span class='ocrx_word' id='word_1_7' title='bbox 1006 120 1024 153; x_wconf 91' lang='grc'>7</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 180 256 1963 2958">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 180 256 1963 2958">
+     <span class='ocr_line' id='line_1_2' title="bbox 180 256 1963 2958; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 180 256 1963 2958; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1069 3069 1947 3106">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1069 3069 1947 3106">
+     <span class='ocr_line' id='line_1_3' title="bbox 1069 3069 1947 3106; baseline 0 -2"><span class='ocrx_word' id='word_1_9' title='bbox 1069 3072 1093 3104; x_wconf 91' lang='grc'>1.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1147 3070 1265 3105; x_wconf 78' lang='lat' dir='ltr'>Salvia</span> <span class='ocrx_word' id='word_1_11' title='bbox 1295 3073 1505 3106; x_wconf 77' lang='lat' dir='ltr'>itatiaicnsis</span> <span class='ocrx_word' id='word_1_12' title='bbox 1532 3071 1626 3106; x_wconf 80' lang='lat' dir='ltr'><em>Dus.</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1677 3071 1779 3105; x_wconf 74' lang='lat'><strong>2—3.</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1831 3069 1947 3104; x_wconf 88' lang='lat' dir='ltr'>Buddl</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

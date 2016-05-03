@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./arkivfrbotanik08kung/arkivfrbotanik08kung_0405.png"; bbox 0 0 1965 3240; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3 3104 681 3151">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3 3104 681 3151">
+     <span class='ocr_line' id='line_1_1' title="bbox 3 3104 681 3151; baseline -0.001 -11"><span class='ocrx_word' id='word_1_1' title='bbox 3 3107 41 3140; x_wconf 79' lang='lat'>4.</span> <span class='ocrx_word' id='word_1_2' title='bbox 94 3105 249 3140; x_wconf 82' lang='lat' dir='ltr'>Senecio</span> <span class='ocrx_word' id='word_1_3' title='bbox 276 3105 555 3151; x_wconf 78' lang='lat' dir='ltr'>argyrotrichius</span> <span class='ocrx_word' id='word_1_4' title='bbox 582 3104 681 3139; x_wconf 80' lang='lat' dir='ltr'><em>Dus.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1239 3008 1812 3046">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1239 3008 1812 3046">
+     <span class='ocr_line' id='line_1_2' title="bbox 1239 3008 1812 3046; baseline -0.009 -8"><span class='ocrx_word' id='word_1_5' title='bbox 1239 3012 1349 3046; x_wconf 79' lang='lat' dir='ltr'>Ljustr.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1369 3012 1474 3038; x_wconf 61' lang='lat' dir='ltr'>justus</span> <span class='ocrx_word' id='word_1_7' title='bbox 1497 3009 1683 3043; x_wconf 81' lang='lat' dir='ltr'>Cederquist‚</span> <span class='ocrx_word' id='word_1_8' title='bbox 1705 3008 1812 3035; x_wconf 82' lang='lat' dir='ltr'>Sthlm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 248 1726 3003">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 248 1726 3003">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 248 1726 3003; textangle 180"><span class='ocrx_word' id='word_1_9' title='bbox 0 248 1726 3003; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1663 110 1793 143">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1663 110 1793 143">
+     <span class='ocr_line' id='line_1_4' title="bbox 1663 110 1793 143; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 1663 110 1733 143; x_wconf 54' lang='lat' dir='ltr'>&#39;lm</span> <span class='ocrx_word' id='word_1_11' title='bbox 1771 112 1793 143; x_wconf 76' lang='grc'>1,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
